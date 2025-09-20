@@ -47,9 +47,9 @@
 
 ## 📌 Featured Projects  
 
-🔹 [AI Workspace](#) – Where AI Powers Your Creativity.
-🔹 [AI Code Assistant](#) – Your Intelligent Coding Partner.
-🔹 [AnimeXcite Blog](#) – Anime & pop culture blog built with Next.js  
+🔹 [AI Workspace](https://github.com/Imran65545/My-Workspace) – Where AI Powers Your Creativity.
+🔹 [AI Code Assistant](https://github.com/Imran65545/Vschat) – Your Intelligent Coding Partner.
+🔹 [Promptopia](https://github.com/Imran65545/Promptopia) – Your AI coding prompt.
 
 ---
 
