@@ -7,7 +7,7 @@
 💻 Full-Stack Developer | MERN Enthusiast | Intern @ Xcite Media  
 
 🌐 Passionate about building scalable web apps and interactive platforms.  
-📚 Currently learning **React.js**, **Next.js**, and **MongoDB**.  
+📚 Currently learning **Devops**, **GenAi**.  
 ✨ Interests: Anime, Gaming, and exploring tech that enhances digital experiences.  
 
 ---
