@@ -8,7 +8,7 @@
 
 🌐 Passionate about building scalable web apps and interactive platforms.  
 📚 Currently learning **Devops**, **GenAi**.  
-✨ Interests: Anime, Gaming, and exploring tech that enhances digital experiences.  
+✨ Interests: Full-stack development, cloud & DevOps, scalable application architecture, AI-powered solutions, gaming technology, and immersive digital experiences.
 
 ---
 
