@@ -30,10 +30,12 @@
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,postgres,tailwind,js,html,css,git,github,vercel,linux,vscode,postman,docker,prisma,kafka" />
 </p>
 
----
-<img src="https://github-readme-stats.vercel.app/api?username=imran65545&show_icons=true&theme=radical" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imran65545&layout=compact&theme=radical" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=imran65545&theme=radical" />
+
+## Github stats
+<img src="https://github-readme-stats.vercel.app/api?username=Imran65545&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imran65545&layout=compact&theme=radical" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Imran65545&theme=radical" />
+
 
 
 ## 📌 Featured Projects  
